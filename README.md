@@ -1,7 +1,10 @@
 <h1 align="center">Olá, eu sou o Hugo 👋</h1>
 
 <p align="center">
-  Desenvolvedor apaixonado por tecnologia, formado em <strong>Sistemas de Informação</strong> pela <strong>FHO | UNIARARAS</strong> 🎓
+  Desenvolvedor apaixonado por tecnologia, formado em <strong>Sistemas de Informação</strong> pela <strong>FHO | UNIARARAS</strong> 🎓<br>
+  Formando em <strong>Desenvolvimento de software multiplataforma 💻 FATEC PORTO FERREIRA</strong>
+
+  
 </p>
 
 ---
